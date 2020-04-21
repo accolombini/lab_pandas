@@ -1,4 +1,4 @@
-# Nesta pratica nosso objetivo e importar e manipular arquivos que contenham os dados a serem analisados => lembrando que podemos estaar falando de arquivos gigantescos
+# Nesta pratica nosso objetivo e importar e manipular arquivos que contenham os dados a serem analisados => lembrando que podemos estar falando de arquivos gigantescos
 # Em se tratando de Big Data e IoT temos os 4 Vs >>= V => Volume V => Velocidade V => Variedade V => Veracidade
 # Os principais tipos de arquivos que iremos trabalhar sao: .txt, .csv e .xlx
 # Arquivos .txt => normalmente empregados para informacoes nao estruturadas
